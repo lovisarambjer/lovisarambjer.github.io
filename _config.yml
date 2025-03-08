@@ -22,13 +22,13 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/LR.png"
+  avatar           : "files/LR.jpg"
   name             : "Lovisa Rambjer"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics at Uppsala University"
  #location         : "Earth"
   employer         : "Uppsala University"
-  uri              : # URL
+  uri              : "https://www.uu.se/en/contact-and-organisation/staff?query=N19-1016" 
   email            : "lovisa.rambjer@nek.uu,se" 
 
   # Academic websites
