@@ -26,8 +26,9 @@ field compositions, despite the prevalence of specialized high school and colleg
 and strong occupational concentrations within these specializations.
 
 
-**Transparency, governance, and water and sanitation: Experimental evidence from schools in rural Bangladesh**
-Joint with Umrbek Allakulov, Serena Cocciolo, Binayak Das, Md. Ahasan Habib, and Anna Tompsett. []
+[**Transparency, governance, and water and sanitation: Experimental evidence from schools in rural Bangladesh**](https://www.sciencedirect.com/science/article/pii/S0304387823000378) (2023) Journal of Development Economics. 
+Joint with Umrbek Allakulov, Serena Cocciolo, Binayak Das, Md. Ahasan Habib, and Anna Tompsett.
 
 Can transparency interventions improve WASH service provision? We use a randomized experiment to evaluate the impacts of a transparency intervention, a deliberative multi-stakeholder workshop initiated with a community scorecard exercise, in schools in rural Bangladesh. To measure impacts, we combine survey data, direct observations, and administrative data. The intervention leads to moderate but consistent improvements in knowledge of WASH standards and practices, and institutions for WASH service management, but does not improve school WASH service provision or change WASH facility use patterns. Drawing on rich descriptive data, we suggest several reasons why the intervention we evaluate did not improve WASH service outcomes and propose ways to improve the design of future interventions.
+
 
