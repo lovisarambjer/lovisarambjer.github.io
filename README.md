@@ -1,4 +1,4 @@
-# Academic Pages
+
 **Welcome to my website!**
 
 I am a PhD Candidate in Economics at Uppsala Univeristy, studying the impact of AI and algorithmic decision making in the labor market. 
