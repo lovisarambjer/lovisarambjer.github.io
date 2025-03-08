@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LR.png"
+  avatar           : "files/LR.png"
   name             : "Lovisa Rambjer"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics at Uppsala University"
