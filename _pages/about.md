@@ -9,7 +9,7 @@ redirect_from:
 
 **Welcome to my website!** 
 
-I am a PhD Candidate in Economics at Uppsala Univeristy, studying the impact of AI and algorithmic decision making in the labor market. During the spring 2025 I visited Boston University. 
+I am a PhD Candidate in Economics at Uppsala Univeristy, studying the impact of AI and algorithmic decision making in the labor market. During the spring 2025 I am visiting Boston University and CREST Paris.
 
 I will be on the 2025/2026 job market.
 
