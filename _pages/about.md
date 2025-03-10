@@ -13,7 +13,7 @@ I am a PhD Candidate in Economics at Uppsala Univeristy, studying the impact of 
 
 I will be on the 2025/2026 job market.
 
-In my job market paper I study the use of an algorithmic prediction of jobseekers' reemployment probability at the Swedish Public Employment Service, designed to target job search assistance to those with the greatest needs. I study the implications of caseworker deviations from the algorithmic recommendation in terms of predictive performance. By leveraging a shift in the algorithmic regime, I add valuable insights on the determinants of successful caseworker-algorithm collaboration. 
+In my job market paper I study the use of an algorithmic prediction of jobseekers' reemployment probability at the Swedish Public Employment Service, designed to target job search assistance to those with the greatest needs. I study the implications of caseworker deviations from the algorithmic recommendation in terms of predictive performance. Leveraging institutional features and a shift in the algorithmic regime, I analyze the determinants of successful caseworker-algorithm collaboration.
 
 <span style="font-size: 1.15em">**Work in Progress**</span>
 
