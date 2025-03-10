@@ -153,7 +153,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - README
+  # - README
   
 exclude:
   - "*.sublime-project"
