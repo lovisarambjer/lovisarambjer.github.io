@@ -151,7 +151,8 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/cv.md
+  - _pages/about.md
   - files
   # - README
   
