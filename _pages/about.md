@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD Candidate in Economics at Uppsala Univeristy, studying the impact of AI and algorithmic decision making in the labor market. 
 
-**Caseworker-Algorithm Collaboration in Predicting Jobseeker Success [JMP] **
+**Caseworker-Algorithm Collaboration in Predicting Jobseeker Success [JMP]**
 As predictive algorithms become increasingly integrated into public policy, understanding their interaction with human decision-makers is essential. While many things speak in favor of machines outperforming humans, the determinants of successful human-algorithm collaboration remain less explored. I study the use of an algorithmic prediction of jobseekers' reemployment probability at the Swedish Public Employment Service, designed to assist caseworkers in labor market assessments and better target job search assistance to those with the greatest needs. By exploiting random assignment of jobseekers to caseworkers and variation in caseworker propensity to assign jobseekers to independent job search, I reconstruct the algorithmic counterfactual allocation of jobseekers and estimate employment outcomes under strict adherence to the algorithm.
 
 **Monitoring, Benefit Sanctions and Employment Outcomes. Evidence from a Judge Design** 
