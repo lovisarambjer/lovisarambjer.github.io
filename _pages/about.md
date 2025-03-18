@@ -17,7 +17,7 @@ In my job market paper I study the use of an algorithmic prediction of jobseeker
 
 <span style="font-size: 1.15em">**Work in Progress**</span>
 
-**Caseworker-Algorithm Collaboration in Predicting Jobseeker Success [JMP]**
+**Caseworker versus Algorithm Prediction of Jobseeker Success [JMP]**
 
 **Monitoring, Benefit Sanctions and Employment Outcomes. Evidence from a Judge Design** 
 Joint with Johan Vikström, IFAU, and Arne Uhlendorff, CREST.  
