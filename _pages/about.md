@@ -20,8 +20,7 @@ I will be on the 2025/2026 job market.
 **Human-AI Collaboration in Assignment of Unemployed Jobseekers [JMP]**
 <span style="font-size: 0.8em"> Can caseworkers improve upon algorithmic assignment of unemployed jobseekers to active labor market programs (ALMPs) at the Public Employment Service (PES)? This paper studies the impact of caseworker discretion over an algorithm that recommends assignment based on predicted reemployment probability. I set up a framework where ALMP assignment involves a trade-off between fairness (prediction) and efficiency (total employment). This trade-off introduces tension between the algorithm’s design and the broader policy objectives, creating potential scope for caseworkers to improve outcomes by incorporating private information or better aligning with policymaker goals. Leveraging as-if random assignment of jobseekers to caseworkers, I reconstruct the algorithmic counterfactual and evaluate outcomes along both fairness and efficiency dimensions. The results show that caseworkers reduce fairness, despite achieving above-random prediction accuracy. At the same time, their deviations do not improve employment outcomes. This suggests that while caseworkers may attempt to trade off fairness for efficiency, they lack the predictive skill to identify individual treatment effects of ALMPs - resulting in no gains in total employment.</span>
 
-<span style="font-size: 0.8em">  Full draft available on request. </span> 
-<!--  <span style="font-size: 0.8em">  Full draft [here](https://www.dropbox.com/scl/fi/sblby61r07f06vmuu4s15/Lovisa-Rambjer-JMP-2025.pdf?rlkey=qxaqctnhfmjt0t4b9lsed7to8&st=a4w5ts26&dl=0)</span>   -->
+<span style="font-size: 0.8em">  Full draft [here](https://www.dropbox.com/scl/fi/sblby61r07f06vmuu4s15/Lovisa-Rambjer-JMP-2025.pdf?rlkey=qxaqctnhfmjt0t4b9lsed7to8&st=a4w5ts26&dl=0)</span>   -->
  
 
 **Monitoring, Benefit Sanctions and Employment Outcomes. Evidence from a Judge Design** 
