@@ -12,7 +12,7 @@ redirect_from:
 I am a PhD Candidate in Economics at Uppsala Univeristy, with a special interest in the impact of AI and algorithmic decision making in the labor market. I am affiliated with the
 WASP-HS research cluster on AI, Structural Change, and the Future of Work.
 
-During the spring 2025 I was visiting Boston University and CREST Paris.
+During the spring 2025 I was visiting Boston University, hosted by Professor Daniele Paserman, and CREST Paris, hosted by Professor Arne Uhlendorff.
 
 I will be on the 2025/2026 job market.
 
