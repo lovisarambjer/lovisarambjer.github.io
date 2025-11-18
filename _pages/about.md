@@ -26,9 +26,14 @@ I will be on the 2025/2026 job market.
 <span style="font-size: 0.8em">  Full draft [here](https://www.dropbox.com/scl/fi/sblby61r07f06vmuu4s15/Lovisa-Rambjer-JMP-2025.pdf?rlkey=qxaqctnhfmjt0t4b9lsed7to8&st=a4w5ts26&dl=0)</span>   -->
  
 
-**Strictness Enforcement of UI Requirements and Employment Outcomes**
+**Strictness in the evaluation of job search effort and employment outcomes**
 Joint with Johan Vikström, IFAU, and Arne Uhlendorff, CREST.  
-Unemployed job seekers must comply with job-search requirements to be eligible for unemployment insurance (UI) benefits. We exploit exogenous variation in strictness across caseworkers who conduct monthly reviews of the UI requirements to examine the effects of stricter enforcement on job finding, search intensity, and job quality. A stricter caseworker leads to a monitoring chain with more notifications of violations of job-search requirements and more benefit sanctions. As a result, unemployment spells are shorter and employment rates higher. A contributing factor is persistently higher job-search intensity as a result of the stricter monitoring. These positive employment effects are more pronounced under less favorable local labor market conditions and longer lasting for job seekers with weak labor market attachment.
+
+Unemployed job seekers must comply with job-search requirements to be eligible for unemployment insurance benefits. We exploit exogenous variation in strictness across caseworkers who conduct monthly reviews of these requirements to examine the effects of stricter enforcement on job finding, search intensity, and job quality. Stricter caseworkers increase the likelihood of reported violations and benefit sanctions. This leads to persistently higher job-search intensity, shorter unemployment durations and higher employment rates. These positive employment effects are more pronounced under less favorable local labor market conditions and longer lasting for job seekers with weak labor market attachment
+
+
+<span style="font-size: 0.8em">   Draft [here](https://www.dropbox.com/scl/fi/7t0vu3ak1y7th8bwtbfdm/Rambjer-Uhlendorff-Wikstrom-WP.pdf?rlkey=fnn3168v7u6le6vri3nib0k5s&e=3&st=qtwkcfas&dl=0)</span>   -->
+
 
 **Major adjustments? How graduates from high school and college adjust to changes in labor demand** 
 Joint with Georg Graetz, Uppsala University, and Oskar Nordström Skans, Uppsala University.  
