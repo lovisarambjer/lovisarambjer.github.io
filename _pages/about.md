@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD Candidate in Economics at Uppsala Univeristy, with a special interest in the impact of AI and algorithmic decision making in the labor market. I am affiliated with the WASP-HS research cluster on AI, Structural Change, and the Future of Work.
 
-I will join The Institute for Evaluation of Labour Market and Education Policy (IFAU) as a tenure-track postdoctoral researcher in September 2026. 
+I will join The Institute for Evaluation of Labour Market and Education Policy [(IFAU)](https://www.ifau.se/en/)</span>  as a tenure-track postdoctoral researcher in September 2026. 
 
 
 <span style="font-size: 1.15em">**Work in Progress**</span>
