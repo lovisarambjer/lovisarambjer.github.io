@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Lovisa Rambjer"
 title_separator          : "-"
 name                     : &name "Lovisa Rambjer"
-description              : &description "PhD Candidate in Economics at Uppsala University"
+description              : &description "PhD Economics"
 url                      : https://lovisarambjer.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 # baseurl                  :  "https://mmistakes.github.io" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -25,16 +25,14 @@ author:
   avatar           : "profile.png"
   name             : "Lovisa Rambjer"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Economics at Uppsala University"
+  bio              : "Postdoctoral Researcher"
  #location         : "Earth"
-  employer         : "Uppsala University"
-  uri              : "https://www.uu.se/en/contact-and-organisation/staff?query=N19-1016" 
-  email            : "lovisa.rambjer@nek.uu.se" 
+  employer         : "IFAU"
+  email            : "lovisa.rambjer@ifau.uu.se" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Sj1TG4UAAAAJ&hl=sv"
-  website          : "https://www.uu.se/en/contact-and-organisation/staff?query=N19-1016" 
   
 
   # Repositories and software development
