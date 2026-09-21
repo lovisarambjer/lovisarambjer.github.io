@@ -29,7 +29,7 @@ I am a postdoctoral researcher, on tenure track, at the Institute for Evaluation
 <span style="font-size: 0.8em">  Unemployed job seekers must comply with job-search requirements to be eligible for unemployment insurance benefits. We exploit variation in strictness across caseworkers who conduct monthly reviews of these requirements to examine the effects of stricter enforcement on job finding, search intensity, and job quality. This variation arises from central office caseworkers who are randomly assigned to review job seekers’ activity reports and whose only interaction with job seekers occurs through this process. We find that stricter enforcement increases the likelihood of reported violations and benefit sanctions, leading to persistently higher job-search intensity, shorter unemployment durations, and higher employment rates. We find no evidence of negative effects on job quality. These positive employment effects are more persistent among job seekers from low-growth industries and those with weak labor market attachment.
 
 
-<span style="font-size: 0.8em">   Draft [here](https://www.dropbox.com/scl/fi/lp3lckbu5h4q6jjddgkxg/Rambjer_Uhlendorff_Vikstr-m.pdf?rlkey=bkq9antngsvzlh2tn19djlyzq&dl=0)</span>   -->
+<span style="font-size: 0.8em">   Draft [here](https://www.dropbox.com/scl/fi/n99gptej535gy341w3vic/Rambjer_Uhlendorff_Vikstrom_2026.pdf?rlkey=k2leahd86u0nbveic3e48aha0&dl=0)</span>   -->
 
 
 **Major adjustments? How graduates from high school and college adjust to changes in labor demand** 
