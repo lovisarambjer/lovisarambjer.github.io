@@ -9,9 +9,9 @@ redirect_from:
 
 **Welcome to my website!** 
 
-I am an applied economist with a special interest in the impact of AI and algorithmic decision making in the labor market. I am affiliated with the WASP-HS research cluster on AI, Structural Change, and the Future of Work.
+I am an applied economist with a special interest in the impact of AI and algorithmic decision making on the labor market. I am affiliated with Uppsala Center for Labor Studies and the WASP-HS research cluster on AI, Structural Change, and the Future of Work
 
-I am a postdoc, on tenure track, at the Institute for Evaluation of Labour Market and Education Policy [(IFAU)](https://www.ifau.se/en/). 
+I am a postdoctoral researcher, on tenure track, at the Institute for Evaluation of Labour Market and Education Policy [(IFAU)](https://www.ifau.se/en/). I hold a PhD in economics from Uppsala University. I visited Boston University and CREST, Paris, during the spring 2025. 
 
 
 <span style="font-size: 1.15em">**Work in Progress**</span>
