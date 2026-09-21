@@ -11,7 +11,7 @@ redirect_from:
 
 I am an applied economist with a special interest in the impact of AI and algorithmic decision making on the labor market. I am affiliated with Uppsala Center for Labor Studies and the WASP-HS research cluster on AI, Structural Change, and the Future of Work
 
-I am a postdoctoral researcher, on tenure track, at the Institute for Evaluation of Labour Market and Education Policy [(IFAU)](https://www.ifau.se/en/). I hold a PhD in economics from Uppsala University. I visited Boston University and CREST, Paris, during the spring 2025. 
+I am a postdoctoral researcher, on tenure track, at the Institute for Evaluation of Labour Market and Education Policy [(IFAU)](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/lovisa-rambjer/). I hold a PhD in economics from Uppsala University. I visited Boston University and CREST, Paris, during the spring 2025. 
 
 
 <span style="font-size: 1.15em">**Work in Progress**</span>
