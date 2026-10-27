@@ -1,31 +1,43 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="en">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
-
   <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">{% endif %}
+        <p>{{ site.description }}</p>
+        <nav class="sidenav">
+          <a href="#home">Home</a>
+          <a href="#work-in-progress">Work in progress</a>
+          <a href="#publications">Publications</a>
+          <a href="{{ '/cv_Lovisa_Rambjer.pdf' | relative_url }}">Download CV</a>
+        </nav>
+      </header>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+      <section id="home">
+        {{ content }}
+      </section>
     </div>
 
-    {% include scripts.html %}
-
+    <script>
+      // "Show abstract" toggles
+      document.querySelectorAll('.abs-toggle').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          var panel = btn.closest('.links').nextElementSibling;
+          var open = btn.getAttribute('aria-expanded') === 'true';
+          btn.setAttribute('aria-expanded', String(!open));
+          btn.textContent = open ? 'Show abstract' : 'Hide abstract';
+          panel.hidden = open;
+        });
+      });
+    </script>
   </body>
 </html>
