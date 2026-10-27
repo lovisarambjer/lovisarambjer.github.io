@@ -2,17 +2,21 @@
 ---
 @import "{{ site.theme }}";
 
-/* Sidebar navigation */
-.sidenav { margin: 1.2rem 0 0; }
-.sidenav a {
+/* Sidebar buttons */
+.sidebtns { display: flex; flex-direction: column; gap: 0.5rem; margin: 1.2rem 0 0; }
+.sidebtn {
   display: block;
-  padding: 0.35rem 0;
-  font-weight: 700;
-  color: #444;
-  border-bottom: 1px solid #e5e5e5;
+  padding: 0.55rem 0.8rem;
+  border: 1px solid #267CB9;
+  border-radius: 4px;
+  background: #fff;
+  color: #267CB9;
+  font-weight: 600;
+  text-align: center;
   text-decoration: none;
 }
-.sidenav a:hover { color: #267CB9; }
+.sidebtn:hover { background: #eef5fb; }
+.sidebtn:focus-visible { outline: 3px solid #267CB9; outline-offset: 2px; }
 header img { display: block; margin: 0.5rem 0 1rem; border-radius: 4px; }
 
 /* Entries */
