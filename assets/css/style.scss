@@ -1,0 +1,48 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Sidebar navigation */
+.sidenav { margin: 1.2rem 0 0; }
+.sidenav a {
+  display: block;
+  padding: 0.35rem 0;
+  font-weight: 700;
+  color: #444;
+  border-bottom: 1px solid #e5e5e5;
+  text-decoration: none;
+}
+.sidenav a:hover { color: #267CB9; }
+header img { display: block; margin: 0.5rem 0 1rem; border-radius: 4px; }
+
+/* Entries */
+section h4 { margin: 1.6rem 0 0.2rem; color: #222; }
+.meta { margin: 0 0 0.3rem; }
+.venues { font-size: 0.9em; margin: 0 0 0.4rem; }
+
+/* Link row: Show abstract + PDF buttons */
+.links { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.5rem 0 0.9rem; }
+.links a, .links button {
+  font: inherit;
+  font-size: 0.85em;
+  line-height: 1;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid #267CB9;
+  border-radius: 4px;
+  background: #fff;
+  color: #267CB9;
+  text-decoration: none;
+  cursor: pointer;
+}
+.links a:hover, .links button:hover { background: #eef5fb; }
+.links button[aria-expanded="true"] { background: #267CB9; color: #fff; }
+.links a:focus-visible, .links button:focus-visible { outline: 3px solid #267CB9; outline-offset: 2px; }
+
+.abstract {
+  margin: 0 0 1.2rem;
+  padding: 0.7rem 1rem;
+  background: #f7f7f7;
+  border-left: 3px solid #267CB9;
+}
+.abstract[hidden] { display: none; }
+.abstract p { margin: 0; }
